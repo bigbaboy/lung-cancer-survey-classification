@@ -1,8 +1,12 @@
-# Survey Classification Demo
+# Lung Cancer Survey Classification
 
 An educational machine-learning application that compares decision-tree, KNN and Random Forest classifiers on a lung-cancer survey dataset.
 
 > This is an academic classification exercise, not a diagnostic or clinical risk-assessment tool. Model outputs are not medical advice or validated disease probabilities.
+
+## Related repository
+
+[Final-report](https://github.com/bigbaboy/Final-report) contains identical `app.py` and `train_models.py` files at the time of review. Both repositories cover the same academic project; they should not be counted as separate portfolio projects.
 
 ## What is implemented
 
